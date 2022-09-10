@@ -1,0 +1,1 @@
+dic={2:3,"sahil":"diya"}
